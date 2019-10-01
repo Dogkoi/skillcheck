@@ -1,0 +1,47 @@
+﻿  Bullet.cpp
+  Collision.cpp
+c:\users\59714\source\repos\text\text\collision.cpp(7): warning C4238: 非標準の拡張機能が使用されています: 右辺値のクラスが左辺値に使用されます。
+  Debug.cpp
+c:\users\59714\source\repos\text\text\debug.cpp(80): warning C4244: '=': 'int' から 'WORD' への変換です。データが失われる可能性があります。
+c:\users\59714\source\repos\text\text\debug.cpp(81): warning C4244: '=': 'int' から 'WORD' への変換です。データが失われる可能性があります。
+  debug_font.cpp
+  direct3d.cpp
+  Enemy.cpp
+  EnemyGenerater.cpp
+  Explosion.cpp
+c:\users\59714\source\repos\text\text\explosion.cpp(57): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  fade.cpp
+c:\users\59714\source\repos\text\text\fade.cpp(61): warning C4100: 'bFadeOut': 引数は関数の本体部で 1 度も参照されません。
+c:\users\59714\source\repos\text\text\fade.cpp(61): warning C4100: 'color': 引数は関数の本体部で 1 度も参照されません。
+c:\users\59714\source\repos\text\text\fade.cpp(61): warning C4100: 'frame': 引数は関数の本体部で 1 度も参照されません。
+  Game.cpp
+  input.cpp
+  Judgement.cpp
+  main.cpp
+c:\users\59714\source\repos\text\text\main.cpp(308): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  number.cpp
+c:\users\59714\source\repos\text\text\number.cpp(26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  PatternAnim.cpp
+c:\users\59714\source\repos\text\text\patternanim.cpp(17): warning C4100: 'frameCount': 引数は関数の本体部で 1 度も参照されません。
+c:\users\59714\source\repos\text\text\patternanim.cpp(17): warning C4100: 'dy': 引数は関数の本体部で 1 度も参照されません。
+c:\users\59714\source\repos\text\text\patternanim.cpp(17): warning C4100: 'dx': 引数は関数の本体部で 1 度も参照されません。
+  player.cpp
+  score.cpp
+c:\users\59714\source\repos\text\text\score.cpp(9): warning C4100: 'left': 引数は関数の本体部で 1 度も参照されません。
+c:\users\59714\source\repos\text\text\score.cpp(9): warning C4100: 'zero': 引数は関数の本体部で 1 度も参照されません。
+  sound.cpp
+  sprite.cpp
+c:\users\59714\source\repos\text\text\sprite.cpp(74): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\59714\source\repos\text\text\sprite.cpp(142): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\59714\source\repos\text\text\sprite.cpp(188): warning C4189: 'h': ローカル変数が初期化されましたが、参照されていません
+c:\users\59714\source\repos\text\text\sprite.cpp(187): warning C4189: 'w': ローカル変数が初期化されましたが、参照されていません
+c:\users\59714\source\repos\text\text\sprite.cpp(213): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\59714\source\repos\text\text\sprite.cpp(204): warning C4100: 'cuty': 引数は関数の本体部で 1 度も参照されません。
+c:\users\59714\source\repos\text\text\sprite.cpp(204): warning C4100: 'cutx': 引数は関数の本体部で 1 度も参照されません。
+c:\users\59714\source\repos\text\text\sprite.cpp(209): warning C4189: 'h': ローカル変数が初期化されましたが、参照されていません
+c:\users\59714\source\repos\text\text\sprite.cpp(208): warning C4189: 'w': ローカル変数が初期化されましたが、参照されていません
+  system_timer.cpp
+  コンパイル中...
+  texture.cpp
+c:\users\59714\source\repos\text\text\texture.cpp(59): warning C4189: 'hr': ローカル変数が初期化されましたが、参照されていません
+LINK : fatal error LNK1181: 入力ファイル 'd3dx9.lib' を開けません。

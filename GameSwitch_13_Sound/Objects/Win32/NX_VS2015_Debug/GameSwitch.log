@@ -1,0 +1,28 @@
+﻿          1 個のファイルをコピーしました。
+  C:\Users\ths80520\Desktop\GameSwitch_13_Sound\Binaries\Win32\NX_VS2015_Debug\data <<===>> C:\Users\ths80520\Desktop\GameSwitch_13_Sound\rom のジャンクションが作成されました
+  ball.cpp
+c:\users\ths80520\desktop\gameswitch_13_sound\ball.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\ths80520\desktop\gameswitch_13_sound\ball.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  bg.cpp
+  Block.cpp
+c:\users\ths80520\desktop\gameswitch_13_sound\ball.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Collision.cpp
+  controller.cpp
+  Explosion.cpp
+c:\users\ths80520\desktop\gameswitch_13_sound\ball.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Fade.cpp
+  main.cpp
+c:\users\ths80520\desktop\gameswitch_13_sound\ball.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  GraphicsHelper.Windows.cpp
+c:\users\ths80520\desktop\gameswitch_13_sound\graphicshelper.windows.cpp(55): warning C4996: 'nn::vi::SetLayerScalingMode': This is deprecated. Please refer to NintendoSDK API reference for the details.
+  c:\nintendo\nintendoswitch\nintendosdk\include\nn\vi\vi_layer.h(167): note: 'nn::vi::SetLayerScalingMode' の宣言を確認してください
+  player.cpp
+  Result.cpp
+  Score.cpp
+  sound.cpp
+  sprite.cpp
+  system.cpp
+  texture.cpp
+  Title.cpp
+  コードを生成中...
+LINK : fatal error LNK1104: ファイル 'libnn_atk.a' を開くことができません。
